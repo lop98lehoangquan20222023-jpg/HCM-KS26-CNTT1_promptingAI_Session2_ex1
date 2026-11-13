@@ -1,5 +1,5 @@
 # Bước 1:Xác định Input&Output(I/O)
-- Input:Phản hồi thô của khách hàng (có thể sửa lỗi chính tả,thiếu dữ liệu,hoặc dữ liệu trống,vô nghĩa).
+- Input:Phản hồi thô của khách hàng.
 - Output:
 1. File Json để lưu vào hệ thống
 2. Bảng Markdow để nhân viên xem
